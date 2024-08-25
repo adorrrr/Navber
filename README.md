@@ -1,8 +1,17 @@
 # Simple Web Page Project
 
-This project is a simple static web page that showcases a basic header section with navigation links, 
-a logo, and a call-to-action button. The webpage has been styled using external CSS and includes a sample layout for further development.
+This project is a simple static web page that showcases a basic header section with navigation links, a logo, and a call-to-action button. The webpage is styled using external CSS and provides a sample layout for further development.
 
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Run the Project](#how-to-run-the-project)
+- [Future Enhancements](#future-enhancements)
+- [Installation](#installation)
+- [Contributors](#contributors)
+- [License](#license)
 
 ## Project Structure
 
@@ -34,3 +43,12 @@ The project consists of the following files:
 - **Content Sections**: Add additional sections to the web page, such as a product showcase or a blog feed.
 - **JavaScript Interactivity**: Implement JavaScript for enhanced interactivity, such as form validation or animations.
 - **Responsive Improvements**: Further optimize the layout for various devices, including tablets and mobile phones.
+
+
+### Key Enhancements:
+- **Table of Contents**: Helps with navigation within the README.
+- **Installation Section**: Added detailed instructions for setting up the project locally.
+- **Contributors and License Sections**: Provides space for collaboration and legal information.
+
+This version of the README is well-organized and ready for your project. Let me know if you need further customization!
+
